@@ -10,13 +10,6 @@ How to create packages and their interests.
 
 How to manipulate exceptions add assertions.
 
-@Accross plateforms trainer
-My contacts: 00221 77 862 72 72 bonevybeby@gmail.com
-
-## Bonevy BEBY
-
-- [@zoulou421](https://www.github.com/zoulou421)
-
 ## Documentation
 
 [Documentation](https://docs.python.org/release/3.12.2/tutorial/index.html)
@@ -29,6 +22,10 @@ I'm an Accross Plateforms Archictecturer, an Engineer and Trainer. I'm also pass
 
 ## 🛠 Skills
 Javascript, HTML, CSS,java,Javascript,Typescript,Python,PHP,DOT.NET...
+
+@Accross plateforms trainer
+My contacts: 00221 77 862 72 72 | bonevybeby@gmail.com
+
 
 
 
