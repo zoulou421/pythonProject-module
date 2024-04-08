@@ -16,8 +16,8 @@ How to manipulate exceptions add assertions.
 
 ![code_structure.JPG](code_structure.JPG)
 
-## 🚀 About Me
-I'm an Accross Plateforms Archictecturer, an Engineer and Trainer. I'm also passionnate with DevOPs and Cloud Services.
+## 🚀 About Author
+Bonevy BEBY is a Software Engineer,an Accross Plateforms Archictecturer and a Trainer. He's also passionnate with DevOPs and Cloud Services.
 
 
 ## 🛠 Skills
