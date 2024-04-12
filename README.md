@@ -1,5 +1,9 @@
 # Python fundamentals for Beginners
 
+Note: Files in this  project are independant.
+Every file almost represent a small project.
+So you can pick one by one and try to understand the source code.
+
 Learn basics concepts and syntaxes in Python
 
 How to create functions.
